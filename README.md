@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm <a>Maria</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Web Developer 🇷🇺</h3>
+### Hi there, I'm Maria! 👋
+### Web Developer
 
-### About Me:
+## About Me:
 
 Aspiring web developer with a passion for creating user-friendly, aesthetically pleasing web experiences.
 
-### My Stack:
+## My Stack:
 
 - **Languages:** 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,12 +30,11 @@ Aspiring web developer with a passion for creating user-friendly, aesthetically 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### My Statistics:
+## My Statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamariluu)](https://github.com/lamariluu/github-readme-stats)
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamariluu)](https://github.com/lamariluu/github-readme-stats)
 
-### My Contacts:
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marialeoinbox@gmail.com)](mailto:marialeoinbox@gmail.com)
-  [![Yandex Badge](https://img.shields.io/badge/-Yandex-f7da1e?style=flat-square&logo=Yandexl&logoColor=red&link=mailto:lamarilu@yandex.ru)](mailto:lamarilu@yandex.ru)
-  [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram&logoColor=white&link=mailto:https://t.me/Mashhhk)](mailto:https://t.me/Mashhhk))
+## My Contacts:
+ - Telegram: https://t.me/Mashhhk
+ - Email: marialeoinbox@gmail.com
