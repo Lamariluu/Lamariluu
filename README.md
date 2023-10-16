@@ -1,11 +1,11 @@
-### Hi there, I'm Maria! 👋
-### Web Developer
+# Hi there, I'm Maria! 👋
+## Web Developer
 
-## About Me:
+### About Me:
 
 Aspiring web developer with a passion for creating user-friendly, aesthetically pleasing web experiences.
 
-## My Stack:
+### My Stack:
 
 - **Languages:** 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,11 +30,11 @@ Aspiring web developer with a passion for creating user-friendly, aesthetically 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## My Statistics:
+### My Statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamariluu)](https://github.com/lamariluu/github-readme-stats)
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamariluu)](https://github.com/lamariluu/github-readme-stats)
 
-## My Contacts:
+### My Contacts:
  - Telegram: https://t.me/Mashhhk
  - Email: marialeoinbox@gmail.com
